@@ -1,6 +1,6 @@
 # Task Manager in C
 
-This is a simple Task Manager implemented in the C programming language. The program allows users to add tasks, mark them as completed, display the list of tasks, and exit the manager.
+This is a simple Task Manager implemented in the C. The program allows users to add tasks, mark them as completed, display the list of tasks, and exit the manager.
 
 ## Features
 
